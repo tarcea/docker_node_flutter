@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 8080
 
-CMD ["npm", "run", "build", "npm", "start"]
+CMD ["npm", "run", "startDocker"]

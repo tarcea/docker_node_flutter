@@ -5,7 +5,7 @@ const app = express();
 app.use(morgan('dev')); // logger
 
 const data = [
-  { name: 'johnny', age: 34 },
+  { name: 'john', age: 34 },
   { name: 'ida', age: 44 },
 ];
 
